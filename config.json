@@ -6,12 +6,12 @@
 		"timeout": 150
 	},
 	{
-		"name": "kz.ViporFailover1",
+		"name": "kz.Vipor",
         	"url": "stratum+tcp://kz.vipor.net:5040",
 		"timeout": 150
 	},
 	{
-		"name": "de.ViporFailover2",
+		"name": "de.Vipor",
         	"url": "stratum+tcp://de.vipor.net:5040",
 		"timeout": 150
 	}
